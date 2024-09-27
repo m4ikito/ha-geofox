@@ -1,7 +1,7 @@
 {
   "domain": "hvv_transport",
   "name": "HVV Transport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "documentation": "https://github.com/m4ikito/ha-geofox",
   "requirements": [],
   "dependencies": [],
