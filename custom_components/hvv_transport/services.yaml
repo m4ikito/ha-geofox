@@ -1,0 +1,6 @@
+get_departures:
+  description: "Hole die Abfahrten für eine Station"
+  fields:
+    station_name:
+      description: "Name der Haltestelle"
+      example: "Rosenhof"
