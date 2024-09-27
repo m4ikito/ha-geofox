@@ -2,9 +2,9 @@
   "domain": "hvv_transport",
   "name": "HVV Transport",
   "version": "1.0.0",
-  "documentation": "https://your-documentation-link",
+  "documentation": "https://github.com/m4ikito/ha-geofox",
+  "requirements": [],
   "dependencies": [],
   "codeowners": ["@m4ikito"],
-  "requirements": ["requests"],
-  "iot_class": "cloud_polling"
+  "iot_class": "local_polling"
 }
