@@ -1,0 +1,20 @@
+{
+  "version": "2024.9.2",
+  "name": "HVV Transport",
+  "repository": "m4ikito/ha-geofox",
+  "category": "integration",
+  "description": "A custom Home Assistant integration for HVV transport.",
+  "keywords": [
+    "home-assistant",
+    "hvv",
+    "transport"
+  ],
+  "homepage": "https://github.com/m4ikito/ha-geofox",
+  "issues": "https://github.com/m4ikito/ha-geofox/issues",
+  "license": "MIT",
+  "dependencies": [],
+  "support": {
+    "type": "forum",
+    "url": "https://community.home-assistant.io/"
+  }
+}
