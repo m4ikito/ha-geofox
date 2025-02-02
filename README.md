@@ -14,7 +14,7 @@ This custom integration allows you to access public transport information from t
 
 1. Open HACS in your Home Assistant interface.
 2. Go to "Integrations" and click the "+" button to add a new integration.
-3. Enter the following repository URL: `https://github.com/m4ikito/ha-geofox`.
+3. Enter the following repository URL: `https://github.com/taw0/ha-geofox`.
 4. Choose the "Integration" category.
 5. Install the integration.
 
